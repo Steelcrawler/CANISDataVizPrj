@@ -1,6 +1,6 @@
 # CANISDataVizPrj
 
-This was a project for the CANIS Data Visualization hackathon, in which state-controlled media accounts across the world were analyzed to determine foreign influence on Western Countries like USA/Canada.
+This was a project for the CANIS Data Visualization hackathon, in which state-controlled media accounts across the world were analyzed to determine foreign influence on Western Countries like USA/Canada. (https://canis-hackathon-2.devpost.com/)
 
 The included file used the dataset given to analyze the available Youtube accounts of those media sites, and collected all their video data to determine trends in video posting with respect to time. This data was then broken down by parent entity, region of focus of the media station, and view count.
 
